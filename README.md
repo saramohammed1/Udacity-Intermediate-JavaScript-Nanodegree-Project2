@@ -1,4 +1,3 @@
-# Udacity-Intermediate-JavaScript-Nanodegree-Project2
 # Functional Programming with Javascript 
 
 ## Student Instructions
