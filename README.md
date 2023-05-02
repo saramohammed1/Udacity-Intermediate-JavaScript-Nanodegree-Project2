@@ -57,3 +57,8 @@ To complete this project, your backend code must:
 - [ ] Make successful calls to the NASA API
 - [ ] Use pure functions to do any logic necessary
 - [ ] Hide any sensetive information from public view (In other words, use your dotenv file)
+
+###Screenshots
+<img width="914" alt="2023-05-03" src="https://user-images.githubusercontent.com/113782279/235803447-7facfd40-0ce8-48ff-842c-66418d60e330.png">
+<img width="898" alt="2023-05-03 (1)" src="https://user-images.githubusercontent.com/113782279/235803464-9e688284-7cf0-480b-9b64-b811c7ce02e7.png">
+
